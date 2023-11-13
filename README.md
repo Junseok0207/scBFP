@@ -8,7 +8,7 @@ The official source code for "Single-cell RNA-seq data imputation using Bi-level
 
 ## Overview
 
-<img width=100% src="Img/architecture.png"></img>
+<img width=100% src="img/architecture.png"></img>
 
 ## Requirements
 - Python version : 3.9.16
